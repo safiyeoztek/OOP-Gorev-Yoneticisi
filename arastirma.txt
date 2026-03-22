@@ -1,0 +1,17 @@
+Kısa Açıklama
+“Bu projede OOP neden gerekliydi?”
+Projemizdeki verileri kaydedip daha sonra da erişebilmemiz için nesne tabanlı bir yapıda yazdık.
+Ayrıca OOP, kodun tekrar kullanılabilirliğini arttırarak karmaşıklığı önler ve büyük projelerin daha düzenli yazılmasını sağlar.
+
+*Bir program çalıştırıldığında bilgisayarda neler olur?*
+
+**Alt Başlıklar:**
+
+- RAM nedir?
+- CPU ne yapar?
+- Programın yaşam döngüsü
+
+Bir program çalıştırıldığında işletim sistemi programı diskten alıp RAM’e yükler. Daha sonra CPU,
+programın komutlarını sırayla alır ve çalıştırır. RAM bilgisayarın geçici hafızasıdır ve hızlı olduğu için CPU'ya bilgiler hemen iletilir.
+CPU bilgisayarın beynidir ve birçok işlem orda gerçekleşir.
+Program kapatıldığında ise kullanılan RAM temizlenir ve işlem sona erer.
